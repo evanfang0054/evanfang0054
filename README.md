@@ -12,4 +12,6 @@
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
     <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
   </picture>
+
+  ![info](https://github-readme-stats.vercel.app/api?username=evanfang0054&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 </div>
