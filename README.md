@@ -13,7 +13,22 @@
   You are my ![Visitor Count](https://profile-counter.glitch.me/evanfang0054/count.svg)th visitor
 
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-  ![暗色](https://raw.githubusercontent.com/evanfang0054/evanfang0054/output/github-contribution-grid-snake-dark.svg)
+  
+   <br>
+   
+   <table align="left">
+     <tbody>
+       <tr>
+       <td align="left">
+         <picture>
+           <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/evanfang0054/evanfang0054/output/github-contribution-grid-snake-dark.svg">
+           <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/evanfang0054/evanfang0054/output/github-contribution-grid-snake-light.svg">
+           <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/evanfang0054/evanfang0054/output/github-contribution-grid-snake.svg">
+         </picture>
+       </td>
+     </tr>
+   </tbody>
+   </table>
 
    <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
