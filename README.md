@@ -1,17 +1,15 @@
-<div align="center">
+#  🙋 Hi there
+
+<div align="left">
    <!-- dynamic typing effect 动态打字效果 -->
   <div>
     <a href="https://blog.sunguoqi.com/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);小孙同学祝您今天愉快!&center=true&size=27" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22)&center=true&size=27" />
     </a>
-  </div>
-  
-  <!-- knock code pictures 敲代码的图片 -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
-    <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
-  </picture>
+  </div
 
   ![info](https://github-readme-stats.vercel.app/api?username=evanfang0054&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
+
+   <!-- for beauty 留个空行好看点 -->
+  <div>&nbsp;</div>
 </div>
