@@ -1,4 +1,4 @@
-#  🙋 Hi there
+#  🙋 Hi there! I'm Evan Fang.
 
 <div align="left">
    <!-- dynamic typing effect 动态打字效果 -->
@@ -8,7 +8,10 @@
     </a>
   </div
 
-  ![info](https://github-readme-stats.vercel.app/api?username=evanfang0054&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
+  <div>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=evanfang0054&theme=algolia&show_icons=true&count_private=true" />
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evanfang0054&theme=algolia&layout=compact&langs_count=8" />
+  </div>
   
   You are my ![Visitor Count](https://profile-counter.glitch.me/evanfang0054/count.svg)th visitor
 
