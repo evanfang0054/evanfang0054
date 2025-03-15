@@ -13,7 +13,7 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evanfang0054&theme=algolia&layout=compact&langs_count=8" />
   </div>
   
-  You are my ![Visitor Count](https://profile-counter.glitch.me/evanfang0054/count.svg)th visitor
+  <!-- You are my ![Visitor Count](https://profile-counter.glitch.me/evanfang0054/count.svg)th visitor -->
 
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
   
