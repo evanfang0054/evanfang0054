@@ -9,8 +9,8 @@
   </div
 
   <div>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=evanfang0054&theme=algolia&show_icons=true&count_private=true" />
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evanfang0054&theme=algolia&layout=compact&langs_count=8" />
+   <img height="180em" src="https://github-readme-stats-jmhq8s4lo-github-readme-stats-team.vercel.app/api?username=evanfang0054&show_icons=true&theme=algolia&count_private=true" />
+   <img height="180em" src="[https://github-readme-stats.vercel.app](https://github-readme-stats-jmhq8s4lo-github-readme-stats-team.vercel.app)/api/top-langs/?username=evanfang0054&theme=algolia&layout=compact&langs_count=8" />
   </div>
   
   <!-- You are my ![Visitor Count](https://profile-counter.glitch.me/evanfang0054/count.svg)th visitor -->
